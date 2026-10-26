@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul">#2196F3</color>
+    <color name="blanco">#FFFFFF</color>
+    <color name="fondo_principal">#F5F5F7</color>
+    <color name="gris_texto">#666666</color>
+    <color name="ic_launcher_background">#C30FEC</color>
+    <color name="morado">#9C27B0</color>
+    <color name="naranja">#FF9800</color>
+    <color name="negro">#000000</color>
+    <color name="primario">#6200EE</color>
+    <color name="primario_oscuro">#3700B3</color>
+    <color name="rojo_error">#F44336</color>
+    <color name="secundario">#03DAC5</color>
+    <color name="verde_exito">#4CAF50</color>
+    <string name="app_name">MPAZ PRO 3.0</string>
+    <style name="Theme.MPAZPro3" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primario</item>
+        <item name="colorPrimaryDark">@color/primario_oscuro</item>
+        <item name="colorAccent">@color/secundario</item>
+        <item name="android:statusBarColor">@color/primario</item>
+    </style>
+</resources>

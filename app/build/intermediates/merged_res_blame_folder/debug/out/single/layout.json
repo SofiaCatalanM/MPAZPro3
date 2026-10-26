@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\activity_contenido.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_contenido.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\activity_docente.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_docente.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\activity_actividad.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_actividad.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\activity_resultados.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_resultados.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\activity_camara.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_camara.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\activity_informe.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_informe.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\activity_asignar_objetivo.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_asignar_objetivo.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.mpazpro3.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\item_objetivo.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\item_objetivo.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-mergeDebugResources-37:\\layout\\activity_estudiante.xml",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_estudiante.xml"
+    }
+]

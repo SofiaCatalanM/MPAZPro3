@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\anim_scale_up.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_activity_contenido.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_contenido.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_activity_resultados.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_resultados.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_activity_docente.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_docente.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\drawable_ic_ciencias.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\drawable\\ic_ciencias.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\drawable_ic_historia.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\drawable\\ic_historia.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\drawable_ic_matematica.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\drawable\\ic_matematica.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\anim_shake.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\anim\\shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_activity_estudiante.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_estudiante.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.mpazpro3.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\drawable_ic_lenguaje.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\drawable\\ic_lenguaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_activity_informe.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_informe.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_item_objetivo.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\item_objetivo.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_activity_actividad.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_actividad.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_activity_camara.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_camara.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-merged_res-38:\\layout_activity_asignar_objetivo.xml.flat",
+        "source": "C:\\Users\\computadorursula\\.gradle\\daemon\\8.4\\com.mpazpro3.app-main-40:\\layout\\activity_asignar_objetivo.xml"
+    }
+]
