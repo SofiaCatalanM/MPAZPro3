@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/tvTituloActividad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Evaluación de Conocimientos"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="32dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="¿Cuál es la capital de Francia?"
+        android:textSize="18sp"
+        android:layout_marginBottom="24dp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp">
+
+        <RadioButton android:id="@+id/rbOpcion1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Londres" />
+        <RadioButton android:id="@+id/rbOpcion2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="París" />
+        <RadioButton android:id="@+id/rbOpcion3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Madrid" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnEnviarRespuesta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enviar Respuesta y Ver Resultados" />
+
+</LinearLayout>

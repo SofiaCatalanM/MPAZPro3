@@ -1,0 +1,190 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mpazpro3.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-feature
+11-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:4:5-85
+12        android:name="android.hardware.camera"
+12-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:4:19-57
+13        android:required="false" />
+13-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:4:58-82
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:5:5-65
+15-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:5:22-62
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:6:5-66
+16-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:6:22-63
+17    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+17-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:7:5-77
+17-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:7:22-74
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:8:5-67
+18-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:8:22-64
+19
+20    <permission
+20-->[androidx.core:core:1.12.0] C:\Users\computadorursula\.gradle\caches\transforms-3\a80ca45a17d8d157825d4a4182d12dd8\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+21        android:name="com.mpazpro3.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+21-->[androidx.core:core:1.12.0] C:\Users\computadorursula\.gradle\caches\transforms-3\a80ca45a17d8d157825d4a4182d12dd8\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+22        android:protectionLevel="signature" />
+22-->[androidx.core:core:1.12.0] C:\Users\computadorursula\.gradle\caches\transforms-3\a80ca45a17d8d157825d4a4182d12dd8\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+23
+24    <uses-permission android:name="com.mpazpro3.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+24-->[androidx.core:core:1.12.0] C:\Users\computadorursula\.gradle\caches\transforms-3\a80ca45a17d8d157825d4a4182d12dd8\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+24-->[androidx.core:core:1.12.0] C:\Users\computadorursula\.gradle\caches\transforms-3\a80ca45a17d8d157825d4a4182d12dd8\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+25
+26    <application
+26-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:10:5-44:19
+27        android:allowBackup="true"
+27-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:11:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.12.0] C:\Users\computadorursula\.gradle\caches\transforms-3\a80ca45a17d8d157825d4a4182d12dd8\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+29        android:extractNativeLibs="false"
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:12:9-43
+31        android:label="@string/app_name"
+31-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:13:9-41
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:14:9-54
+33        android:supportsRtl="true"
+33-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:15:9-35
+34        android:theme="@style/Theme.MPAZPro3"
+34-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:16:9-46
+35        android:usesCleartextTraffic="true" >
+35-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:17:9-44
+36
+37        <!-- Actividad principal de Login -->
+38        <activity
+38-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:20:9-27:20
+39            android:name="com.mpazpro3.app.ui.login.LoginActivity"
+39-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:21:13-51
+40            android:exported="true" >
+40-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:22:13-36
+41            <intent-filter>
+41-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:23:13-26:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:24:17-69
+42-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:24:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:25:17-77
+44-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:25:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <!-- Actividades del flujo Estudiante -->
+49        <activity android:name="com.mpazpro3.app.ui.estudiante.EstudianteActivity" />
+49-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:30:9-70
+49-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:30:19-67
+50        <activity android:name="com.mpazpro3.app.ui.estudiante.ContenidoActivity" />
+50-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:31:9-69
+50-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:31:19-66
+51        <activity android:name="com.mpazpro3.app.ui.estudiante.ActividadActivity" />
+51-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:32:9-69
+51-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:32:19-66
+52        <activity android:name="com.mpazpro3.app.ui.estudiante.ResultadosActivity" />
+52-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:33:9-70
+52-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:33:19-67
+53
+54        <!-- NUEVA Actividad para probar la API Externa -->
+55        <activity android:name="com.mpazpro3.app.ui.estudiante.ActividadApiActivity" />
+55-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:36:9-72
+55-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:36:19-69
+56
+57        <!-- Actividades del flujo Docente y Common -->
+58        <activity android:name="com.mpazpro3.app.ui.docente.DocenteActivity" />
+58-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:39:9-64
+58-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:39:19-61
+59        <activity android:name="com.mpazpro3.app.ui.docente.AsignarObjetivoActivity" />
+59-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:40:9-72
+59-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:40:19-69
+60        <activity android:name="com.mpazpro3.app.ui.docente.informe.InformeActivity" />
+60-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:41:9-72
+60-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:41:19-69
+61        <activity android:name="com.mpazpro3.app.ui.common.CamaraActivity" />
+61-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:42:9-62
+61-->C:\Users\computadorursula\Desktop\MPAZPro3-main\MPAZPro3-main\app\src\main\AndroidManifest.xml:42:19-59
+62
+63        <provider
+63-->[androidx.emoji2:emoji2:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\467016ed09dc553db7dc4e3424d5efe3\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+64            android:name="androidx.startup.InitializationProvider"
+64-->[androidx.emoji2:emoji2:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\467016ed09dc553db7dc4e3424d5efe3\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+65            android:authorities="com.mpazpro3.app.androidx-startup"
+65-->[androidx.emoji2:emoji2:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\467016ed09dc553db7dc4e3424d5efe3\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+66            android:exported="false" >
+66-->[androidx.emoji2:emoji2:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\467016ed09dc553db7dc4e3424d5efe3\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+67            <meta-data
+67-->[androidx.emoji2:emoji2:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\467016ed09dc553db7dc4e3424d5efe3\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+68-->[androidx.emoji2:emoji2:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\467016ed09dc553db7dc4e3424d5efe3\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+69                android:value="androidx.startup" />
+69-->[androidx.emoji2:emoji2:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\467016ed09dc553db7dc4e3424d5efe3\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+70            <meta-data
+70-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\computadorursula\.gradle\caches\transforms-3\d0b4012e9fe0993a9e3a97eb1db12292\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+71-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\computadorursula\.gradle\caches\transforms-3\d0b4012e9fe0993a9e3a97eb1db12292\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+72                android:value="androidx.startup" />
+72-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\computadorursula\.gradle\caches\transforms-3\d0b4012e9fe0993a9e3a97eb1db12292\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+73            <meta-data
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+74-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+75                android:value="androidx.startup" />
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+76        </provider>
+77
+78        <service
+78-->[androidx.room:room-runtime:2.6.1] C:\Users\computadorursula\.gradle\caches\transforms-3\dada826961c3578e0af129baa8c6f862\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+79            android:name="androidx.room.MultiInstanceInvalidationService"
+79-->[androidx.room:room-runtime:2.6.1] C:\Users\computadorursula\.gradle\caches\transforms-3\dada826961c3578e0af129baa8c6f862\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+80            android:directBootAware="true"
+80-->[androidx.room:room-runtime:2.6.1] C:\Users\computadorursula\.gradle\caches\transforms-3\dada826961c3578e0af129baa8c6f862\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+81            android:exported="false" />
+81-->[androidx.room:room-runtime:2.6.1] C:\Users\computadorursula\.gradle\caches\transforms-3\dada826961c3578e0af129baa8c6f862\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+82
+83        <receiver
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+84            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+85            android:directBootAware="false"
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+86            android:enabled="true"
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+87            android:exported="true"
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+88            android:permission="android.permission.DUMP" >
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+89            <intent-filter>
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+90                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+91            </intent-filter>
+92            <intent-filter>
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+93                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+94            </intent-filter>
+95            <intent-filter>
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+96                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+97            </intent-filter>
+98            <intent-filter>
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+99                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\computadorursula\.gradle\caches\transforms-3\09540c808f22699d0c7daa4e4891e8dc\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+100            </intent-filter>
+101        </receiver>
+102    </application>
+103
+104</manifest>

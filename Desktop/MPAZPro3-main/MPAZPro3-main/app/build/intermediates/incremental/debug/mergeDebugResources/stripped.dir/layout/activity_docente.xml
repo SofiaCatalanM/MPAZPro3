@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="#F5F5F7">
+
+    <TextView
+        android:id="@+id/tvBienvenidaDocente"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Panel del Docente"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#6200EE"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gestiona tus cursos y asigna objetivos de aprendizaje."
+        android:textSize="16sp"
+        android:textColor="#666666"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="32dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnVerEstudiantes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ver Lista de Estudiantes"
+        android:layout_marginBottom="16dp"
+        app:icon="@android:drawable/ic_menu_myplaces" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnAsignarObjetivo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Asignar Nuevo Objetivo"
+        app:icon="@android:drawable/ic_menu_add"
+        app:backgroundTint="#03DAC5" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnVerInformes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ver Informes de Progreso"
+        android:layout_marginTop="16dp"
+        app:icon="@android:drawable/ic_menu_sort_by_size"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton" />
+
+</LinearLayout>

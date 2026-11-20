@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mpazpro3.app.util.ValidadorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-18T20:11:19" hostname="URSULA" time="0.034">
+  <properties/>
+  <testcase name="nombre_vacio_debe_retornar_Invalido" classname="com.mpazpro3.app.util.ValidadorTest" time="0.023"/>
+  <testcase name="nombre_valido_debe_retornar_Valido" classname="com.mpazpro3.app.util.ValidadorTest" time="0.01"/>
+  <testcase name="nombre_muy_corto_debe_retornar_Invalido" classname="com.mpazpro3.app.util.ValidadorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

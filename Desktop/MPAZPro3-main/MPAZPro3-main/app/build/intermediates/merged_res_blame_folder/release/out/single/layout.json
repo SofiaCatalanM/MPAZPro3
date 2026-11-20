@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_asignar_objetivo.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_asignar_objetivo.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_camara.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_camara.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_actividad.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_actividad.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_docente.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_docente.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/item_objetivo.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/item_objetivo.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_contenido.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_contenido.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_login.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_resultados.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_resultados.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_actividad_api.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_actividad_api.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_informe.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_informe.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-mergeReleaseResources-59:/layout/activity_estudiante.xml",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_estudiante.xml"
+    }
+]

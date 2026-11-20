@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/drawable_ic_lenguaje.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/drawable/ic_lenguaje.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_actividad.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_actividad.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/anim_shake.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/anim/shake.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_resultados.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_resultados.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_contenido.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_contenido.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/drawable_ic_matematica.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/drawable/ic_matematica.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/drawable_ic_person.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_docente.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_docente.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_informe.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_informe.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/drawable_ic_notification.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_asignar_objetivo.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_asignar_objetivo.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/drawable_ic_ciencias.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/drawable/ic_ciencias.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/anim_fade_in.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_item_objetivo.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/item_objetivo.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_camara.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_camara.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_estudiante.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_estudiante.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_login.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/anim_slide_out_left.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/drawable_ic_logo.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/drawable_ic_historia.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/drawable/ic_historia.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/anim_slide_in_right.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/layout_activity_actividad_api.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/layout/activity_actividad_api.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/anim_scale_up.xml.flat",
+        "source": "com.mpazpro3.app-main-61:/anim/scale_up.xml"
+    },
+    {
+        "merged": "com.mpazpro3.app-merged_res-60:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.mpazpro3.app-main-61:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
