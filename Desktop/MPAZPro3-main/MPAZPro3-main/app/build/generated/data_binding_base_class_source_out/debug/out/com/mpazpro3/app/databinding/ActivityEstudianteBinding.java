@@ -12,6 +12,7 @@ import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.card.MaterialCardView;
+import com.google.android.material.imageview.ShapeableImageView;
 import com.mpazpro3.app.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -40,12 +41,16 @@ public final class ActivityEstudianteBinding implements ViewBinding {
   public final MaterialButton btnProbarApiExterna;
 
   @NonNull
+  public final ShapeableImageView imgPerfil;
+
+  @NonNull
   public final TextView tvBienvenida;
 
   private ActivityEstudianteBinding(@NonNull ScrollView rootView, @NonNull MaterialButton btnCamara,
       @NonNull MaterialCardView btnCiencias, @NonNull MaterialCardView btnHistoria,
       @NonNull MaterialCardView btnLenguaje, @NonNull MaterialCardView btnMatematica,
-      @NonNull MaterialButton btnProbarApiExterna, @NonNull TextView tvBienvenida) {
+      @NonNull MaterialButton btnProbarApiExterna, @NonNull ShapeableImageView imgPerfil,
+      @NonNull TextView tvBienvenida) {
     this.rootView = rootView;
     this.btnCamara = btnCamara;
     this.btnCiencias = btnCiencias;
@@ -53,6 +58,7 @@ public final class ActivityEstudianteBinding implements ViewBinding {
     this.btnLenguaje = btnLenguaje;
     this.btnMatematica = btnMatematica;
     this.btnProbarApiExterna = btnProbarApiExterna;
+    this.imgPerfil = imgPerfil;
     this.tvBienvenida = tvBienvenida;
   }
 
@@ -119,6 +125,12 @@ public final class ActivityEstudianteBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.imgPerfil;
+      ShapeableImageView imgPerfil = ViewBindings.findChildViewById(rootView, id);
+      if (imgPerfil == null) {
+        break missingId;
+      }
+
       id = R.id.tvBienvenida;
       TextView tvBienvenida = ViewBindings.findChildViewById(rootView, id);
       if (tvBienvenida == null) {
@@ -126,7 +138,7 @@ public final class ActivityEstudianteBinding implements ViewBinding {
       }
 
       return new ActivityEstudianteBinding((ScrollView) rootView, btnCamara, btnCiencias,
-          btnHistoria, btnLenguaje, btnMatematica, btnProbarApiExterna, tvBienvenida);
+          btnHistoria, btnLenguaje, btnMatematica, btnProbarApiExterna, imgPerfil, tvBienvenida);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

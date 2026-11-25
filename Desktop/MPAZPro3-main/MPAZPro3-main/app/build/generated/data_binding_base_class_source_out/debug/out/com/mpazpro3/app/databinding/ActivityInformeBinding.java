@@ -4,7 +4,7 @@ package com.mpazpro3.app.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.LinearLayout;
+import android.widget.ScrollView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -21,7 +21,7 @@ import java.lang.String;
 
 public final class ActivityInformeBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final ScrollView rootView;
 
   @NonNull
   public final MaterialButton btnGenerar;
@@ -44,7 +44,7 @@ public final class ActivityInformeBinding implements ViewBinding {
   @NonNull
   public final TextView tvTotal;
 
-  private ActivityInformeBinding(@NonNull LinearLayout rootView, @NonNull MaterialButton btnGenerar,
+  private ActivityInformeBinding(@NonNull ScrollView rootView, @NonNull MaterialButton btnGenerar,
       @NonNull MaterialCardView cardInforme, @NonNull TextInputEditText etEstudianteId,
       @NonNull TextInputLayout tilEstudiante, @NonNull TextView tvCorrectas,
       @NonNull TextView tvPorcentaje, @NonNull TextView tvTotal) {
@@ -60,7 +60,7 @@ public final class ActivityInformeBinding implements ViewBinding {
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public ScrollView getRoot() {
     return rootView;
   }
 
@@ -127,7 +127,7 @@ public final class ActivityInformeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityInformeBinding((LinearLayout) rootView, btnGenerar, cardInforme,
+      return new ActivityInformeBinding((ScrollView) rootView, btnGenerar, cardInforme,
           etEstudianteId, tilEstudiante, tvCorrectas, tvPorcentaje, tvTotal);
     }
     String missingId = rootView.getResources().getResourceName(id);

@@ -47,6 +47,7 @@ id cardInforme
 id etCodigoObjetivo
 id etEstudianteId
 id etNombre
+id imgPerfil
 id ivLogo
 id progressBar
 id rbDocente
@@ -87,4 +88,5 @@ layout item_objetivo
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+style CircularImageView
 style Theme.MPAZPro3

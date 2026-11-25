@@ -1,4 +1,4 @@
-#Fri Nov 20 15:33:22 CLST 2026
+#Fri Nov 20 17:02:02 CLST 2026
 base.0=C\:\\Users\\computadorursula\\Desktop\\MPAZPro3-main\\MPAZPro3-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=C\:\\Users\\computadorursula\\Desktop\\MPAZPro3-main\\MPAZPro3-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.10=C\:\\Users\\computadorursula\\Desktop\\MPAZPro3-main\\MPAZPro3-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
